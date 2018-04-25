@@ -1,0 +1,10 @@
+AUTHOR: HMOSER
+TITLE: A Problem Kernelization for Graph Packing
+BOOKTITLE: Proceedings of the 35th International Conference on Current Trends in Theory and Practice of Computer Science
+CONFSHORT: SOFSEM'09
+CONFLINK: http://www.ksi.mff.cuni.cz/sofsem09/
+INFO: &#352;pindler&#367;v Ml&#253;n, Czech Republic, January 2009.<br> Volume 5404 of Lecture Notes in Computer Science, pages 401&ndash;412, Springer.
+PDF: graph-packing_sofsem09_stamped.pdf
+DOI: 10.1007/978-3-540-95891-8_37 
+TALK: graph-packing_sofsem09_presentation.pdf
+BIB: Mos09.bib
