@@ -198,8 +198,8 @@ activated]</noscript>
         <p>
         <br>
         <span class="texto">
-        This page is no longer maintained. See also <a href="http://www.informatik.uni-trier.de/~ley/pers/hd/m/Moser:Hannes.html">my publications</a> at <a href="http://www.informatik.uni-trier.de/~ley/db/welcome.html">DBLP</a>,
-        and <a href="https://academic.microsoft.com/#/search?iq=@Hannes%20Moser@&q=Hannes%20Moser&filters=&from=0&sort=0">my publications and citations</a> at <a href="http://academic.research.microsoft.com/">Microsoft Academic Search</a>.
+        This page is no longer maintained. See also <a target="_blank" href="http://www.informatik.uni-trier.de/~ley/pers/hd/m/Moser:Hannes.html">my publications</a> at <a target="_blank" href="http://www.informatik.uni-trier.de/~ley/db/welcome.html">DBLP</a>,
+        and <a target="_blank" href="https://academic.microsoft.com/#/search?iq=@Hannes%20Moser@&q=Hannes%20Moser&filters=&from=0&sort=0">my publications and citations</a> at <a target="_blank" href="http://academic.research.microsoft.com/">Microsoft Academic Search</a>.
         </span>
         </p>
 
